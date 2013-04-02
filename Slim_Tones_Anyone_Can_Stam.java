@@ -6,7 +6,6 @@
 * All rights reserved.
 * 
 */
-package Slim_Tones;
 import java.util.Random;
 
 public class Slim_Tones_Anyone_Can_Stam {

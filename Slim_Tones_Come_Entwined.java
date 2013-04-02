@@ -8,7 +8,6 @@
 * All rights reserved.
 * 
 */
-package Slim_Tones;
 import java.util.Random;
 
 public class Slim_Tones_Come_Entwined {
@@ -48,7 +47,7 @@ public class Slim_Tones_Come_Entwined {
 			System.out.println();
 
 			try {				
-				Thread.sleep(14000);
+				Thread.sleep(16000);
 			} catch (InterruptedException e) {
 				e.printStackTrace();
 			}		
